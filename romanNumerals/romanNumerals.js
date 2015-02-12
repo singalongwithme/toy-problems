@@ -1,3 +1,7 @@
+/*
+  translates an inputted roman numeral string into integers
+*/
+
 var values = {
   'I': 1,
   'V': 5,
